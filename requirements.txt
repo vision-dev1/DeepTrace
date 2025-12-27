@@ -1,0 +1,11 @@
+numpy
+opencv-python
+mediapipe
+librosa
+moviepy
+scikit-learn
+joblib
+scipy
+pillow
+tqdm
+scikit-image

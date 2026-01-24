@@ -1,3 +1,5 @@
+# DeepTrace
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Deepfake%20Detection-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />

@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Status-Operational-00C853?style=for-the-badge&logo=cachet&logoColor=white" />
 </p>
 
-# DeepTrace
 
 **DeepTrace** is a forensic deepfake detection system designed to analyze **Video**, **Audio**, and **Images**. It uses a hybrid approach of facial feature extraction (LBP, DCT, Color Analysis) and audio signal analysis (MFCC, Spectral Features) to distinguish between real and AI-generated media.
 

@@ -106,5 +106,5 @@ The tool comes with models trained on synthetic data for demonstration. For real
 This project is licensed under the **Apache License 2.0**.
 
 ## 👨‍💻 Author
-**Vision**
-- GitHub: [vision-dev1](https://github.com/vision-dev1)
+**Vision KC**
+
